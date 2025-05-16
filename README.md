@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/shenqi011/shenqi011/main/assets/github-contribution-grid-snake.svg)
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shenqi011&theme=chartreuse-dark" />   </div>
+![shenqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenqi011&show_icons=true&theme=transparent)
